@@ -1,6 +1,6 @@
 # Object Oriented Programming Assignment
 
-Use the skeleton to implement a Fraction type (in the file `fraction.py`) containing two integers: `numerator` and `denominator`.
+Use the skeleton to implement a Fraction class (in the file `fraction.py`) containing two integers: `numerator` and `denominator`.
 The file `test_fraction.py` can be edited and used to test the created class.
 
 1. Add a member function to give a print representation for the class, e.g., `print(Fraction(1, 2))` should yield in something like: `1/2`.
