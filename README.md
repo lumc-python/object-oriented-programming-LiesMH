@@ -5,7 +5,7 @@ The file `test_fraction.py` can be edited and used to test the created class.
 
 1. Add a member function to give a print representation for the class, e.g., `print Fraction(1, 2)` should yield in something like: `1/2`.
 
-2. Add a member function to add to fractions, e.g., `print Fraction(1, 2) + Fraction(2, 3)` should yield `7/6`.
+2. Add a member function to add to fractions, e.g., `print Fraction(1, 2) + Fraction(2, 3)` should yield `7/6`. Remember: the return type should be chosen correctly, e.g., the addition of two fractions results in a new fraction, not a string representation of the result!
 
 3. Add a member function to invert a fraction, e.g., `print Fraction(1, 2).invert()` should yield `2/1`.
 
